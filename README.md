@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/autsecuritybox/autsecurity-kali-setup/main/logo_updated.png" alt="AutSecurity Box" width="420"/>
+<img src="https://raw.githubusercontent.com/autsecuritybox/AutSecBox-Kali-Setup/main/logo_updated.png" alt="AutSecurity Box" width="420"/>
 
 <br/>
 
@@ -40,7 +40,7 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🛠️ [AutSecurity Box — Kali Setup](https://github.com/autsecuritybox/autsecurity-kali-setup)
+### 🛠️ [AutSecurity Box — Kali Setup](https://github.com/autsecuritybox/AutSecBox-Kali-Setup)
 
 Entorno profesional de pentesting y CTF instalado con **un solo comando** en cualquier Kali Linux limpio.
 
@@ -56,9 +56,9 @@ cd autsecurity-kali-setup && ./install.sh
 - `extract-ports` · `xcopy` · `scope` · `target`
 - Colores, fuentes y shortcuts optimizados para CTF
 
-[![Stars](https://img.shields.io/github/stars/autsecuritybox/autsecurity-kali-setup?color=00ff88&style=flat-square&label=⭐)](https://github.com/autsecuritybox/autsecurity-kali-setup/stargazers)
-[![Release](https://img.shields.io/github/v/release/autsecuritybox/autsecurity-kali-setup?color=00ff88&style=flat-square)](https://github.com/autsecuritybox/autsecurity-kali-setup/releases)
-[![License](https://img.shields.io/github/license/autsecuritybox/autsecurity-kali-setup?color=00ff88&style=flat-square)](https://github.com/autsecuritybox/autsecurity-kali-setup/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/autsecuritybox/autsecurity-kali-setup?color=00ff88&style=flat-square&label=⭐)](https://github.com/autsecuritybox/AutSecBox-Kali-Setup/stargazers)
+[![Release](https://img.shields.io/github/v/release/autsecuritybox/autsecurity-kali-setup?color=00ff88&style=flat-square)](https://github.com/autsecuritybox/AutSecBox-Kali-Setup/releases)
+[![License](https://img.shields.io/github/license/autsecuritybox/autsecurity-kali-setup?color=00ff88&style=flat-square)](https://github.com/autsecuritybox/AutSecBox-Kali-Setup/blob/main/LICENSE)
 
 </td>
 <td width="45%" valign="top">
