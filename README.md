@@ -63,10 +63,22 @@ cd autsecurity-kali-setup && ./install.sh
 </td>
 <td width="45%" valign="top">
 
+### 📝 [WriteUp-ASB](https://github.com/autsecuritybox/WriteUp-ASB)
+
+Documentación técnica detallada de máquinas y desafíos CTF resueltos en la plataforma.
+
+**Incluye:**
+- Enumeración · Reconocimiento · Explotación
+- Escalada de privilegios Linux & Windows
+- Active Directory · Web · Post-Explotación
+- Metodología y buenas prácticas aplicadas
+
+[![Stars](https://img.shields.io/github/stars/autsecuritybox/WriteUp-ASB?color=00ff88&style=flat-square&label=⭐)](https://github.com/autsecuritybox/WriteUp-ASB/stargazers)
+[![License](https://img.shields.io/github/license/autsecuritybox/WriteUp-ASB?color=00ff88&style=flat-square)](https://github.com/autsecuritybox/WriteUp-ASB/blob/main/LICENSE)
+
 ### 📡 Próximos repos
 
 ```
-[ ] Writeups — HTB & THM
 [ ] CheatSheets
 │   ├── Active Directory
 │   ├── Web Exploitation
@@ -74,11 +86,7 @@ cd autsecurity-kali-setup && ./install.sh
 │   └── Network Pivoting
 [ ] CTF Machines propias
 [ ] Scripts & Toolkit
-[ ] Recursos para principiantes
 ```
-
-**Activa** 👁️ **Watch** en este perfil  
-para no perderte ningún lanzamiento.
 
 </td>
 </tr>
