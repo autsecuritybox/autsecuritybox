@@ -52,7 +52,6 @@ cd autsecurity-kali-setup && ./install.sh
 **Incluye:**
 - `bspwm` · `Kitty` (tabs) · `Polybar` · `Powerlevel10k`
 - 40+ herramientas de seguridad preinstaladas
-- Clipboard dual `F1/F2/F3/F4` · Scope manager
 - `extract-ports` · `xcopy` · `scope` · `target`
 - Colores, fuentes y shortcuts optimizados para CTF
 
