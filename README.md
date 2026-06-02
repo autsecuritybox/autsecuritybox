@@ -84,8 +84,6 @@ Documentación técnica detallada de máquinas y desafíos CTF resueltos en la p
 │   ├── Web Exploitation
 │   ├── Linux PrivEsc
 │   └── Network Pivoting
-[ ] CTF Machines propias
-[ ] Scripts & Toolkit
 ```
 
 </td>
