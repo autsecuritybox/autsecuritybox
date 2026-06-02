@@ -138,11 +138,6 @@ Documentación técnica detallada de máquinas y desafíos CTF resueltos en la p
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=autsecuritybox&show_icons=true&theme=radical&bg_color=0d0d1a&title_color=00ff88&icon_color=00ff88&text_color=e0e0e0&border_color=00ff88&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=autsecuritybox&layout=compact&theme=radical&bg_color=0d0d1a&title_color=00ff88&text_color=e0e0e0&border_color=00ff88" />
-
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=autsecuritybox&theme=dark&background=0d0d1a&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&border=00ff88)](https://git.io/streak-stats)
 
 </div>
