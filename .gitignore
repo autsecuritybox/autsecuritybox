@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# Artefactos de Windows
+Thumbs.db
+
+# Temporales
+*.tmp
+*.bak
+*.swp
+*~
