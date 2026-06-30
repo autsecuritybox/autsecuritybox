@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/autsecuritybox/AutSecBox-Kali-Setup/main/logo_updated.png" alt="AutSecurity Box" width="420"/>
+<img src="https://raw.githubusercontent.com/autsecuritybox/autsecbox-kaliup/main/wallpapers/autsecbox.png" alt="AutSecurity Box" width="420"/>
 
 <br/>
 
@@ -40,24 +40,23 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🛠️ [AutSecurity Box — Kali Setup](https://github.com/autsecuritybox/AutSecBox-Kali-Setup)
+### 🛠️ [AutSecBox — Kali Setup](https://github.com/autsecuritybox/autsecbox-kaliup)
 
-Entorno profesional de pentesting y CTF instalado con **un solo comando** en cualquier Kali Linux limpio.
+Entorno profesional de pentesting y CTF. Dotfiles reales con un script de aprovisionamiento para cualquier Kali Linux limpio.
 
 ```bash
-git clone https://github.com/autsecuritybox/autsecurity-kali-setup
-cd autsecurity-kali-setup && ./install.sh
+git clone https://github.com/autsecuritybox/autsecbox-kaliup
+cd autsecbox-kaliup && ./setup.sh
 ```
 
 **Incluye:**
-- `bspwm` · `Kitty` (tabs) · `Polybar` · `Powerlevel10k`
-- 40+ herramientas de seguridad preinstaladas
-- `extract-ports` · `xcopy` · `scope` · `target`
+- `bspwm` · `Kitty` · `Polybar` · `Powerlevel10k`
+- CVE-2026 carousel en la barra (NVD API)
+- Portapapeles dual (F1-F4) · Scope status
 - Colores, fuentes y shortcuts optimizados para CTF
 
-[![Stars](https://img.shields.io/github/stars/autsecuritybox/autsecurity-kali-setup?color=00ff88&style=flat-square&label=⭐)](https://github.com/autsecuritybox/AutSecBox-Kali-Setup/stargazers)
-[![Release](https://img.shields.io/github/v/release/autsecuritybox/autsecurity-kali-setup?color=00ff88&style=flat-square)](https://github.com/autsecuritybox/AutSecBox-Kali-Setup/releases)
-[![License](https://img.shields.io/github/license/autsecuritybox/autsecurity-kali-setup?color=00ff88&style=flat-square)](https://github.com/autsecuritybox/AutSecBox-Kali-Setup/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/autsecuritybox/autsecbox-kaliup?color=00ff88&style=flat-square&label=⭐)](https://github.com/autsecuritybox/autsecbox-kaliup/stargazers)
+[![License](https://img.shields.io/github/license/autsecuritybox/autsecbox-kaliup?color=00ff88&style=flat-square)](https://github.com/autsecuritybox/autsecbox-kaliup/blob/main/LICENSE)
 
 </td>
 <td width="45%" valign="top">
