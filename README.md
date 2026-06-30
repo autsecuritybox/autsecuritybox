@@ -42,7 +42,7 @@
 
 ### 🛠️ [AutSecBox — Kali Setup](https://github.com/autsecuritybox/autsecbox-kaliup)
 
-Entorno profesional de pentesting y CTF. Dotfiles reales con un script de aprovisionamiento para cualquier Kali Linux limpio.
+Entorno profesional de pentesting y CTF instalado con **un solo comando** en cualquier Kali Linux limpio.
 
 ```bash
 git clone https://github.com/autsecuritybox/autsecbox-kaliup
@@ -50,9 +50,9 @@ cd autsecbox-kaliup && ./setup.sh
 ```
 
 **Incluye:**
-- `bspwm` · `Kitty` · `Polybar` · `Powerlevel10k`
-- CVE-2026 carousel en la barra (NVD API)
-- Portapapeles dual (F1-F4) · Scope status
+- `bspwm` · `Kitty` (tabs) · `Polybar` · `Powerlevel10k`
+- 40+ herramientas de seguridad preinstaladas
+- `extract-ports` · `xcopy` · `scope` · `target`
 - Colores, fuentes y shortcuts optimizados para CTF
 
 [![Stars](https://img.shields.io/github/stars/autsecuritybox/autsecbox-kaliup?color=00ff88&style=flat-square&label=⭐)](https://github.com/autsecuritybox/autsecbox-kaliup/stargazers)
