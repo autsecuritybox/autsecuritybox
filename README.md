@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/autsecuritybox/autsecbox-kaliup/main/wallpapers/autsecbox.png" alt="AutSecurity Box" width="420"/>
+<img src="https://raw.githubusercontent.com/autsecuritybox/autsecbox-kaliup/main/wallpapers/logo_updated.png" alt="AutSecurity Box" width="420"/>
 
 <br/>
 
